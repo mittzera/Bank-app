@@ -1,9 +1,10 @@
-import React from 'react'
+import { features } from '../constants';
+import styles, { layout } from '../style';
 
-const Business = () => {
-  return (
+
+const Business = () =>  (
     <div>Business</div>
   )
-}
+
 
 export default Business
